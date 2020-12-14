@@ -1,0 +1,4 @@
+#Tue Dec 01 16:29:43 EET 2020
+base.0=D\:\\Program Files(D)\\Creating\\Android\\Android Studio Projects\\projects_flutter\\film_app_getx\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
