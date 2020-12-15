@@ -7,7 +7,7 @@ import 'package:get/get.dart';
 
 class HomeController extends GetxController {
   final PopularFilmsRepo _repo;
-  List<Results> listFilms = List<Results>().obs;
+  List<Results> listFilms = List<Results>();
   FlexibleSpaceBar flexBar;
   ScrollController scrollController;
 

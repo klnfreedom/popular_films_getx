@@ -12,10 +12,9 @@ class DetailPageController extends GetxController {
 
   MovieDetailResponse resultOfFilmDetail;
 
-  List<Genres> resultOfGenres = List<Genres>().obs;
+  List<Genres> resultOfGenres = List<Genres>();
 
-  //String pathToPosterPath = "".obs.value;
-  String pathToBackDropPath = "".obs.value;
+  String pathToBackDropPath = "";
 
   double movieRatings;
 
